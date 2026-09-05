@@ -1,0 +1,4 @@
+google-genai>=2.0
+mss>=9.0
+keyboard>=0.13.5
+

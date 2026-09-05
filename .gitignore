@@ -1,0 +1,31 @@
+ai_overlay.log
+tests/
+pyproject.toml
+
+
+
+anhchup/*.png
+anhchup/*.jpg
+
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

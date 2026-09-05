@@ -4,7 +4,7 @@ Nhấn một phím tắt để chụp màn hình, gửi cho Gemini và đọc c�
 
 ## Phím tắt
 
-Các tổ hợp `A+S+…` là **giữ ba phím chữ cùng lúc** (A, S rồi phím thứ ba) — không phải Alt hay Shift.
+Các tổ hợp `A+S+…` là **giữ ba phím chữ cùng lúc**
 
 | Phím tắt | Chức năng |
 |---|---|
